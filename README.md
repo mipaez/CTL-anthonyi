@@ -1,7 +1,7 @@
 # CTL-anthonyi
 Data for research on thermal limits of Epipedobates anthonyi
 
-This Paez-Vacas-and-Funk-2022_DATA_README.txt file was generated on 2022-08-01 by Monica Paez-Vacas
+This Paez-Vacas-and-Funk-2022_DATA_README.txt file was generated on 2023-11-23 by Monica Paez-Vacas
 
 GENERAL INFORMATION
 
@@ -11,7 +11,7 @@ GENERAL INFORMATION
 	Corresponding Investigator 
 		Name: Dr. Monica I. Paez-Vacas
 		Institution: Universidad Tecnologica Indoamerica, Quito, Ecuador
-		Email: monicapaez@uti.edu.ec
+		Email: monicapaezv@gmail.com
 
 	Co-investigator 1
 		Name: Dr W. Chris Funk
@@ -23,7 +23,7 @@ GENERAL INFORMATION
 
 5. Funding sources that supported the collection of the data: Secretaría Nacional de Educación Superior, Ciencia y Tecnología del Ecuador, and Graduate Degree Program of Ecology Research Grant
 
-6. Recommended citation for this dataset: Paez-Vacas and Funk (2022), Data from: Data from Thermal limits along tropical elevation gradients: poison frog tadpoles show plasticity but maintain divergence across elevation
+6. Recommended citation for this dataset: Paez-Vacas and Funk (2023), Data from: Data from Thermal limits along tropical elevation gradients: poison frog tadpoles show plasticity but maintain divergence across elevation
 
 DATA & FILE OVERVIEW
 
